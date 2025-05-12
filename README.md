@@ -1,2 +1,2 @@
-# SIMPLE  CALCULATOR
+# Calculator
  
